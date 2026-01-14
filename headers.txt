@@ -1,4 +1,4 @@
 # CSC3916 Assignment 0 - Postman & REST API Testing
 
-## Lisa Cho - Postman Collection
+## Postman Collection
 [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/41547135-66287e4b-bb20-4ba0-b661-c3e52cd987e7?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D41547135-66287e4b-bb20-4ba0-b661-c3e52cd987e7%26entityType%3Dcollection%26workspaceId%3D3e7cea0b-9a30-4ea3-82f9-47cf84cc6f0d#?env%5BBook%20Search%20Env%5D=W3sia2V5IjoiYm9va190aXRsZSIsInZhbHVlIjoiIiwiZW5hYmxlZCI6dHJ1ZSwidHlwZSI6ImRlZmF1bHQiLCJzZXNzaW9uVmFsdWUiOiJUdXJpbmciLCJjb21wbGV0ZVNlc3Npb25WYWx1ZSI6IlR1cmluZyIsInNlc3Npb25JbmRleCI6MH0seyJrZXkiOiJib29rIiwidmFsdWUiOiIiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCIsInNlc3Npb25WYWx1ZSI6IiIsImNvbXBsZXRlU2Vzc2lvblZhbHVlIjoiIiwic2Vzc2lvbkluZGV4IjoxfSx7ImtleSI6ImJvb2tfaWQiLCJ2YWx1ZSI6IiIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJhbnkiLCJzZXNzaW9uVmFsdWUiOiJfTEwwRnpGU1FRd0MiLCJjb21wbGV0ZVNlc3Npb25WYWx1ZSI6Il9MTDBGekZTUVF3QyIsInNlc3Npb25JbmRleCI6Mn1d)
